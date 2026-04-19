@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Texas
 
-> Free BeamStation sample export with 370 rows and masked direct-contact fields.
+> Free BeamStation sample export with 429 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `615033` |
 | Location | Texas |
 | Category | Food and Drink |
-| Full dataset size | 3,703 records |
-| Free sample size | 370 records (9.99%) |
-| Last export | 2026-04-09T18:36:02.744509+00:00 |
+| Full dataset size | 4,293 records |
+| Free sample size | 429 records (9.99%) |
+| Last export | 2026-04-16T21:57:58.816200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-615033/releases/download/sample-latest/beamstation_615033_food_and_drink-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
